@@ -1,4 +1,6 @@
-# ProyectoCatedraDPS DPS441 G01
+# ProyectoCatedraDPS YAA!
+![image](https://github.com/ferdy30/Yaa_App/assets/110478914/3d556dd7-02af-444e-b5af-481f9dfa0400)
+![image](https://github.com/ferdy30/Yaa_App/assets/110478914/565f3209-d6dd-4aee-9ed0-739f81b51b9e)
 
 ## Integrantes
 + Jared Jazer Romero Orellana - RO201303
